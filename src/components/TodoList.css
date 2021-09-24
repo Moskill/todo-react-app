@@ -1,0 +1,7 @@
+.input-group .btn {
+    padding-bottom: 10px;
+}
+.lineTrough {
+    text-decoration: line-through !important;
+    background-color: #ccc !important;
+}
